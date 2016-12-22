@@ -5,75 +5,46 @@
     <atom:link href="/build/feed.xml" rel="self" type="application/rss+xml"></atom:link>
     <link>/build</link>
     <description>Ramblings of an immor(t)al demigod</description>
-    <pubDate>Tue, 30 Apr 2013 03:00:00 +0300</pubDate>
+    <pubDate>Tue, 20 Dec 2016 02:00:00 +0200</pubDate>
     <generator>Wintersmith - https://github.com/jnordberg/wintersmith</generator>
     <language>en</language>
     <item>
-      <title>README</title>
+      <title>CHICKEN':' CHICKEN CHICKEN</title>
       <link>/build/articles/hello-world/</link>
-      <pubDate>Tue, 30 Apr 2013 03:00:00 +0300</pubDate>
+      <pubDate>Tue, 20 Dec 2016 02:00:00 +0200</pubDate>
       <guid isPermaLink="true">/build/articles/hello-world/</guid>
       <author></author>
-      <description>&lt;p&gt;Welcome to your new blog! This is the default blog template with RSS, pagination and an archive. There are other templates available – run &lt;code&gt;wintersmith new --help&lt;/code&gt; to list them.&lt;/p&gt;
-&lt;h2 id=&quot;_repeat-after-me-_-this-is-my-blog-there-are-many-like-it-but-this-one-is-mine-my-blog-is-my-best-friend-it-is-my-life-i-must-master-it-as-i-must-master-my-life-my-blog-without-me-is-useless-without-my-blog-i-am-useless-&quot;&gt;&lt;em&gt;Repeat after me:&lt;/em&gt; This is my blog. There are many like it, but this one is mine. My blog is my best friend. It is my life. I must master it as I must master my life. My blog, without me, is useless. Without my blog, I am useless.&lt;/h2&gt;
-&lt;p&gt;Good, now, the directory structure of your blog is as follows:&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;├── config.json               &amp;lt;- site configuration
-├── contents
-│   ├── about.md
-│   ├── archive.json
-│   ├── articles              &amp;lt;– each article has its own directory
-│   │   ├── another-test
-│   │   │   └── index.md
-│   │   ├── bamboo-cutter
-│   │   │   ├── index.md
-│   │   │   └── taketori_monogatari.jpg
-│   │   ├── hello-world
-│   │   │   └── index.md
-│   │   ├── markdown-syntax
-│   │   │   └── index.md
-│   │   └── red-herring
-│   │       ├── banana.png
-│   │       └── index.md
-│   ├── authors               &amp;lt;- author metadata, check author.jade
-│   │   ├── baker.json
-│   │   └── the-wintersmith.json
-│   ├── css
-│   │   └── main.css
-│   └── feed.json
-├── plugins
-│   └── paginator.coffee      &amp;lt;- paginator plugin
-├── templates
-│   ├── archive.jade
-│   ├── article.jade
-│   ├── author.jade
-│   ├── feed.jade
-│   ├── index.jade
-│   └── layout.jade
-└── views
-    └── articles.coffee       &amp;lt;- view that lists articles
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Articles are sorted by date and 3 are shown per page, you can configure this and more in config.json. Check paginator.coffee for all options related to pagination, most plugins also have their own options.&lt;/p&gt;
-&lt;h3 id=&quot;a-typical-article&quot;&gt;A typical article&lt;/h3&gt;
-&lt;pre&gt;&lt;code class=&quot;lang-markdown&quot;&gt;---
-title: Hear me blog
-author: johndoe
-&lt;span class=&quot;section&quot;&gt;date: 2012-12-12 12:12
----&lt;/span&gt;
-
-This will be shown as the article excerpt.
-
-&lt;span class=&quot;section&quot;&gt;## A h2, hr or &amp;lt;span class=&quot;more&quot;&amp;gt; marks where the intro cuts off&lt;/span&gt;
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h2 id=&quot;links-in-the-markdown-to-other-items-in-the-content-tree-will-be-resolved-for-you-&quot;&gt;Links in the markdown to other items in the content tree will be resolved for you.&lt;/h2&gt;
-&lt;p&gt;For example a link to &lt;code&gt;../bamboo-cutter/index.md&lt;/code&gt; resolves to &lt;a href=&quot;/articles/bamboo-cutter/&quot;&gt;&lt;code&gt;/articles/bamboo-cutter/&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;This is where I leave you to your own devices. Join &lt;strong&gt;#wintersmith&lt;/strong&gt; on freenode if you have any questions.&lt;/p&gt;
+      <description>&lt;p&gt;Chicken
+Chicken chicken chicken chicken chicken chicken chicken chicken
+chicken chicken chicken
+chicken
+chicken chicken chicken chicken
+chicken. Chicken chicken chicken chicken chicken chicken chicken
+chicken. Chicken, chicken chicken chicken, chicken chicken, chic-
+ken chicken chicken “chicken chicken” chicken “chicken chicken”
+chicken.   Chicken,  chicken chicken chicken  chicken chicken chi-
+cken (chicken chicken) chicken chicken chicken chicken chicken,
+chicken chicken chicken chicken chicken chicken chicken chicken
+chicken chicken chicken chicken chicken. Chicken chicken chicken
+chicken chicken chicken chicken chicken chicken, chicken chicken
+chicken, chicken chicken chicken chicken chicken chicken chicke&lt;/p&gt;
+&lt;h2 id=&quot;_chicken-chicken-chicken-chicken-chicken-chicken-chicken-chi-cken-chicken-95-chicken-chicken-chicken-chicken-chicken-chic-ken-chicken-chicken-chicken-chicken-chicken-chicken-&quot;&gt;_Chicken, chicken-chicken chicken chicken—chicken chicken, chi- cken chicken 95% chicken chicken-chicken chicken, chicken chic- ken chicken chicken—chicken chicken chicken chicken.&lt;/h2&gt;
+&lt;p&gt;Chicken,
+chicken chicken, chicken chicken chicken 1987.  Chicken chicken
+chicken chicken chicken chicken-chicken-chicken chicken chicken
+chicken chicken chicken chicken, chicken chicken chicken chicken
+chicken  chicken  chicken.   Chicken  chicken,  chicken  chicken  ch-
+icken  chicken  chicken  chicken  chicken  (chicken  chicken  chicken
+chicken chicken, chicken chicken chicken chicken chicken chicken
+chicken chicken&lt;/p&gt;
+&lt;h2 id=&quot;chicken-&quot;&gt;Chicken?&lt;/h2&gt;
+&lt;p&gt;Chicken,   chicken   chicken,   chicken   chicken   chicken   chicken-
+chicken chicken,  chicken,  chicken chicken chicken chicken
+C(1), chicken chicken chicken chicken [3, 5]. Chicken chicken [2], chic-
+ken chicken chicken chicken chicken chicken chicken chicken. Ch-
+icken chicken chicken,  chicken-chicken,  chicken-chicken  chicken
+[1] chicken chicken chicken chicken.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/build/articles/hello-world/chicken.png&quot; alt=&quot;chicken&quot;&gt;&lt;/p&gt;
 </description>
     </item>
     <item>
